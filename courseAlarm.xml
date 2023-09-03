@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Response>
-	<Say voice="woman">The course you are watching now has an empty slot. Please log onto tiger hub and enroll. This call will be made again shortly. For termination please call 9195995486.</Say>
+    <Say voice="woman">This is Princeton Course Selection Helper. The course you are watching now has an empty slot. Please log onto tiger hub and enroll. This call will be made again shortly. For termination please call 9195995486.</Say>
+    <Play>http://demo.twilio.com/docs/classic.mp3</Play>
 </Response>
